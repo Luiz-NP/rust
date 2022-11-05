@@ -17,7 +17,7 @@
   ```js
     $ cargo build // compila o código
   ```
-  > O código compilado vai para uma nova pasta chamada ```target``` junto com alguns arquivos de depuração, depois disso você pode executa-lo com o seguinte:
+  > O código compilado vai para ```target/debug/``` junto com alguns arquivos de depuração, depois disso você pode executa-lo com o seguinte:
 
   ```js
     $ ./target/debug/filename // executa o binário
