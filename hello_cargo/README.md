@@ -9,7 +9,7 @@
   ```js
     $ cargo new filename // cria os aquivos "src" e "Cargo.toml".
   ```
-  > O arquivo com a extensão ```.toml```(Tom's Obvious, Minimal Language), é o arquivo de configuração de dependências.
+  > O arquivo com a extensão ```.toml```(Tom's Obvious, Minimal Language), são destinados a configuração de dependências no rust.
 <br/>
 
 ### 🦀 Além de gerenciador de pacotes, o ```cargo``` também atua como compilador para projetos maiores, ou que possuam dependências.
