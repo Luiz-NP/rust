@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hello Cargo!</h3>
+  <h2>Hello Cargo!</h2>
 </div>
 
 - Este arquivo executa a mesma função do arquivo ```hello_world```, com algumas pequenas diferenças:
