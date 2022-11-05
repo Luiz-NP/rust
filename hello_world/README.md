@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>The famous convention, here is my first rust program!</h3>  
+  <h3>Seguindo a famosa convenção, aqui está o meu primeiro programa rust!</h3>  
 </div>
 
 ```rs
@@ -8,16 +8,16 @@
   }
 ```
 
-### Some interesting points:
-  * #### The main function is the first thing to be called in a rust program.
+### Alguns pontos interessantes:
+  * #### Assim como c e c++, programas rust são encapsulados por uma função principal.
   ```rs
     fn main() {}
   ```
-  * #### The line inside the function is not a function.
+  * #### A linha dentro da função main pode parecer uma função, mas não é.
   ```rs
     println!();
   ```
-  * #### Note the "!" sign, this is the callsign for a rust macro.
+  * #### Note o sinal "!", este é o indicativo para uma macro rust.
 
 
 
