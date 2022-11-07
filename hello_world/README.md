@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Seguindo a famosa convenção, aqui está o meu primeiro programa rust!</h2>  
+  <h2>Seguindo a famosa tradição, aqui está o meu primeiro programa rust!</h2>  
 </div>
 
 ```rs
