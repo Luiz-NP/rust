@@ -1,6 +1,6 @@
 use std::io;
-use rand::Rgn;
-use std::cmp::Orgering;
+use rand::Rng;
+use std::cmp::Ordering;
 
 fn main() {
     println!("Guess The Number");
