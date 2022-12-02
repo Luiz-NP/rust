@@ -25,7 +25,7 @@ fn main() {
 
         let value: i32 = value.trim().parse().expect("Please type a number!");
 
-        println!("{}°F converted to Celsius are {}°C", value, convert_to_celcius(value));
+        println!("{}°C converted to fahrenheit are {}°F", value, convert_to_fahrenheit(value));
     } else if option == "2\n" {
         println!("Enter a value: ");
 
@@ -33,6 +33,6 @@ fn main() {
 
         let value: i32 = value.trim().parse().expect("Please type a number!");
 
-        println!("{}°C converted to fahrenheit are {}°F", value, convert_to_fahrenheit(value));
+        println!("{}°F converted to Celsius are {}°C", value, convert_to_celcius(value));
     }
 }
